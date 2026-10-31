@@ -1,0 +1,6 @@
+url: https://github.com/CleranceWang/dsh-media-caption
+name: CleranceWang/dsh-media-caption
+category: vision
+description:
+  en: Extracts subtitle transcripts and keyframe contact sheets from local video or audio files, returning file paths for the caller to read.
+  zh: 从本地视频或音频提取字幕与关键帧九宫格，只返回文件路径，由调用方自行读取。
